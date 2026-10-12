@@ -1,13 +1,13 @@
-# Aero Transporte (ATSA) API (4A / AMP) - Flight Tracking, Schedules, Routes & Fleet
+# ATSA Airlines API (4A / AMP) - Flight Tracking, Schedules, Routes & Fleet
 
-Track **Aero Transporte (ATSA)** (IATA `4A`, ICAO `AMP`, Peru) flights programmatically - real-time status and positions, live schedules, routes and fleet data - through a single [AirLabs API](https://airlabs.co/) integration.
+Track **ATSA Airlines** (IATA `4A`, ICAO `AMP`, Peru) flights programmatically - real-time status and positions, live schedules, routes and fleet data - through a single [AirLabs API](https://airlabs.co/) integration.
 
 This repo has ready-to-run examples (cURL, Python, Node.js) that pull Aero Transporte (ATSA) data by its airline code `4A`. Change the code and the same examples work for any of the 1,000+ airlines AirLabs covers.
 
-> **Full reference:** [Aero Transporte (ATSA) Developer API](https://airlabs.co/aero-transporte-atsa-developer-api)
+> **Full reference:** [Aero Transporte (ATSA) Developer API](https://airlabs.co/atsa-airlines-developer-api)
 > **Free API key:** [airlabs.co/signup](https://airlabs.co/signup)
 
-## What you can pull for Aero Transporte (ATSA)
+## What you can pull for ATSA Airlines
 
 | Data | AirLabs endpoint | Filter |
 | --- | --- | --- |
@@ -90,7 +90,7 @@ Every time field also comes as UTC (`_utc`) and a Unix timestamp (`_ts`).
 
 1. Get a **free API key** at [airlabs.co/signup](https://airlabs.co/signup)
 2. Clone this repo and drop your key into the examples in [`/examples`](./examples)
-3. Read the full [Aero Transporte (ATSA) API reference](https://airlabs.co/aero-transporte-atsa-developer-api) and the [AirLabs docs](https://airlabs.co/docs/)
+3. Read the full [Aero Transporte (ATSA) API reference](https://airlabs.co/atsa-airlines-developer-api) and the [AirLabs docs](https://airlabs.co/docs/)
 
 ## About
 
